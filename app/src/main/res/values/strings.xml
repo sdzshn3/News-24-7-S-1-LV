@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News 24/7</string>
+    <string name="separator">•</string>
+    <string name="no_internet_connection">Internet connection is not available</string>
+    <string name="no_data_found">No data found from NEWS API</string>
+
+    <string name="article_thumbnail">article thumbnail</string>
+</resources>
